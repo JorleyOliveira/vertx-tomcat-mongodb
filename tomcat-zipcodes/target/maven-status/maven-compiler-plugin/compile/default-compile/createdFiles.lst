@@ -1,0 +1,4 @@
+br\ufg\inf\tomcat\zipcodes\service\ZipCodeApi$1.class
+br\ufg\inf\tomcat\zipcodes\dto\ZipCode.class
+br\ufg\inf\tomcat\zipcodes\filter\CORSResponseFilter.class
+br\ufg\inf\tomcat\zipcodes\service\ZipCodeApi.class
