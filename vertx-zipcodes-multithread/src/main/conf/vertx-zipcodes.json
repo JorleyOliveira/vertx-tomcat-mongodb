@@ -1,0 +1,9 @@
+{
+  "http.port": 8082,
+  "db_name": "vertx",
+  "connection_string": "mongodb://192.168.0.103:27017",
+  "deploymentOptions" : {
+    "instances" : 4,
+	"worker" : true,
+	"multiThreaded" : true }
+}
